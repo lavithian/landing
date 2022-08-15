@@ -1,0 +1,40 @@
+.hero {
+  background-size: cover;
+  background-position: center;
+  padding: 200px;
+}
+
+.hero-container {
+  width: 900px;
+  margin: auto;
+}
+
+.hero-container h1 {
+  color: blue;
+  padding: auto;
+  margin: auto;
+  opacity: 0.65;
+  line-height: 1;
+  font-size: 48px;
+  text-shadow: 1px 1px skyblue;
+}
+
+.hero-container p {
+  color: skyblue;
+  padding: auto;
+  margin: 5px auto 20px 15px;
+  font-weight: bold;
+  opacity: 85%;
+}
+
+.btn-apply {
+  border: 1px skyblue solid;
+  color: white;
+  background-color: 	#00b4d8;
+  margin: 30px auto;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 20px;
+  font-weight: bolder;
+  box-shadow: 1px 1px lightblue;
+}
